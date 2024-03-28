@@ -1,0 +1,2 @@
+cd /home/maisho/java/MajaKwiatek-09-battleships/target/classes
+java com.example.battleship.BattleshipApplication -mode client -server 127.0.0.1 -port 8080 -map /home/maisho/java/MajaKwiatek-09-battleships/src/test/java/resources/Client/myMap.txt

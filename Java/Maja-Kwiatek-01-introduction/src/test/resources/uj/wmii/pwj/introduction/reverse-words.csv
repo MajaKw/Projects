@@ -1,0 +1,6 @@
+input,expected
+words-ala,ala,ala
+words-letters,a b c,c b a
+words-ala,Ala ma kota,kota ma Ala
+words-mickiewicz,Siedzą piją lulki palą tańce hulanki swawole. Ledwie karczmy nie rozwalą,rozwalą nie karczmy Ledwie swawole. hulanki tańce palą lulki piją Siedzą
+words-ala-long,Ala ma kota a kot ma Alę albo i nie ma,ma nie i albo Alę ma kot a kota ma Ala

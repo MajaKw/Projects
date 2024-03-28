@@ -1,0 +1,2 @@
+javac com/example/battleship/Game/Server.java
+javac com/example/battleship/Game/Client.java
